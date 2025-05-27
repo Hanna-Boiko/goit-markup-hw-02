@@ -22,10 +22,6 @@ address {
   font-style: normal;
 }
 
-/* * {
-  box-sizing: border-box;
-} */
-
 button {
   cursor: pointer;
 }
@@ -138,6 +134,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .team-list {
 }
